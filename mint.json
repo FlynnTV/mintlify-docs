@@ -20,10 +20,11 @@
       "name": "Support",
       "url": "mailto:hello@flynnsai.com"
     }
+    
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://flynnsai.com"
   },
   "tabs": [
     {
@@ -48,38 +49,40 @@
       "url": "https://mintlify.com/blog"
     }
   ],
-  "navigation": [
+ "navigation": [
     {
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "signing-up",
+        "dashboard-overview",
+        "theme-settings"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Account Management",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "account-settings",
+        "logging-out",
+        "flynns-ai-models"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Billing & Subscriptions",
       "pages": [
-        "api-reference/introduction"
+        "pricing-plans",
+        "credits-system",
+        "billing-management",
+        "subscription-options"
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Core Features",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "generating-images",
+        "creating-prompts",
+        "using-ai-models",
+        "training-custom-models"
       ]
     }
   ],
