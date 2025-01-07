@@ -36,17 +36,17 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://support.flynnsai.com"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "What's new",
+      "icon": "code",
+      "url": "https://flynnsai.com/dev-logs"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://flynnsai.com/blog"
     }
   ],
  "navigation": [
@@ -59,15 +59,24 @@
         "theme-settings"
       ]
     },
-    {
-      "group": "Account Management",
+     {
+      "group": "Image generation",
       "pages": [
-        "account-settings",
-        "logging-out",
-        "flynns-ai-models"
+        "generating-images",
+        "creating-prompts",
+        "using-ai-models",
+        "training-custom-models"
       ]
-    },
-    {
+    }
+     {
+      "group": "Model training",
+      "pages": [
+        "flynns-ai-models",
+        "using-ai-models",
+        "training-custom-models"
+      ]
+    }
+     {
       "group": "Billing & Subscriptions",
       "pages": [
         "pricing-plans",
@@ -77,14 +86,12 @@
       ]
     },
     {
-      "group": "Core Features",
+      "group": "Account Management",
       "pages": [
-        "generating-images",
-        "creating-prompts",
-        "using-ai-models",
-        "training-custom-models"
+        "account-settings",
+        "logging-out"
       ]
-    }
+    }, 
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
