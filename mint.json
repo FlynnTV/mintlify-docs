@@ -62,9 +62,7 @@
       "group": "Image generation",
       "pages": [
         "generating-images",
-        "creating-prompts",
-        "using-ai-models",
-        "training-custom-models"
+        "creating-prompts"
       ]
     },
     {
@@ -79,6 +77,7 @@
       "group": "Billing & Subscriptions",
       "pages": [
         "pricing-plans",
+        "switch-plans",
         "credits-system",
         "billing-management",
         "subscription-options"
