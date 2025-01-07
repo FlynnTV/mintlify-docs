@@ -20,7 +20,6 @@
       "name": "Support",
       "url": "mailto:hello@flynnsai.com"
     }
-    
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
@@ -49,7 +48,7 @@
       "url": "https://flynnsai.com/blog"
     }
   ],
- "navigation": [
+  "navigation": [
     {
       "group": "Get Started",
       "pages": [
@@ -59,7 +58,7 @@
         "theme-settings"
       ]
     },
-     {
+    {
       "group": "Image generation",
       "pages": [
         "generating-images",
@@ -68,7 +67,7 @@
         "training-custom-models"
       ]
     },
-     {
+    {
       "group": "Model training",
       "pages": [
         "flynns-ai-models",
@@ -76,7 +75,7 @@
         "training-custom-models"
       ]
     },
-     {
+    {
       "group": "Billing & Subscriptions",
       "pages": [
         "pricing-plans",
@@ -91,7 +90,7 @@
         "account-settings",
         "logging-out"
       ]
-    }, 
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
