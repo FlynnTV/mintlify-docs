@@ -88,7 +88,8 @@
       "group": "Account Management",
       "pages": [
         "account-settings",
-        "logging-out"
+        "change-account-name",
+        "change-password"
       ]
     }
   ],
