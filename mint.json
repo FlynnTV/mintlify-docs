@@ -89,7 +89,8 @@
       "pages": [
         "account-settings",
         "change-account-name",
-        "change-password"
+        "change-password",
+        "reset-password"
       ]
     }
   ],
