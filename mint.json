@@ -62,7 +62,8 @@
       "group": "Image generation",
       "pages": [
         "generating-images",
-        "creating-prompts"
+        "creating-prompts",
+        "image-library"
       ]
     },
     {
